@@ -1,9 +1,0 @@
--IC:\usr\lib\gcc\x86_64-w64-mingw32\11\include\c++
--IC:\usr\lib\gcc\x86_64-w64-mingw32\11\include\c++\x86_64-w64-mingw32
--IC:\usr\lib\gcc\x86_64-w64-mingw32\11\include\c++\backward
--IC:\usr\lib\gcc\x86_64-w64-mingw32\11\include
--IC:\usr\lib\gcc\x86_64-w64-mingw32\11\include-fixed
--IC:\usr\x86_64-w64-mingw32\sys-root\mingw\include
--IC:\cygwin64\home\simon\cPlusPlus_training\MyWorkspace\TEST_VECTOR_MAP
--target
-x86_64-pc-windows-gnu
